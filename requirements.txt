@@ -1,7 +1,0 @@
-streamlit
-ffmpeg-python
-openai-whisper
-transformers
-torch
-huggingface_hub
-python-dotenv
